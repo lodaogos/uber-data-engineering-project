@@ -1,6 +1,6 @@
 # Uber Data Engineering Project
 
-![image](https://github.com/user-attachments/assets/b2bbed4c-d9fa-47c9-9cbd-331932e84065)
+![Uber Logo](./assets/uber%20logo.jpg)
 
 ## Introduction
 
