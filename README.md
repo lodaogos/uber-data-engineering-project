@@ -22,5 +22,6 @@ In order to use our dataset efficiently, we can first create a data model by div
 
 ![image](https://github.com/user-attachments/assets/30ad8e50-a778-45c1-92b8-5b037d214470)
 
-
+## Transformation Code in Jupyter Notebook
+I wrote the code for transformation in jupyter notebook. This code clean the data and transform it into similar structure with the fact table we have created before.
 
