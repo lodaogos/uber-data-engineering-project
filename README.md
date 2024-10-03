@@ -70,6 +70,14 @@ I then write some code in mage.ai to do some ETL process of the data.
 
 ![image](https://github.com/user-attachments/assets/76482412-505a-4d19-8ace-984b3eb9dfac)
 
+## Data Succesfully Loaded Into BigQuery
+We can check if the data succesfully loaded into the BigQuery by trying to query it.
+![image](https://github.com/user-attachments/assets/0deceae5-53ed-4427-9aad-4c7c2a27ef98)
+
+## Creating A Dashboard Using Looker Studio
+After finish loading the data into BigQuery, we can connect the data from BigQuery into looker studio to build a [dashboard](https://lookerstudio.google.com/reporting/949c81c6-5044-45f0-8791-7a2f6abcacbe).
+
+![image](https://github.com/user-attachments/assets/fed88cef-930d-4a2a-81b4-9f31b988079c)
 
 
 
