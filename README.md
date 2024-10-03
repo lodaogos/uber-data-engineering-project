@@ -40,7 +40,8 @@ I created a VM instance using the google cloud compute engine. In the VM i insta
 ## Using mage.ai To Do ETL Process
 I then write some code in mage.ai to do some ETL process of the data for me.
 
-![image](https://github.com/user-attachments/assets/bfab60a5-860d-4b32-8aae-297602745438)
+![image](https://github.com/user-attachments/assets/76482412-505a-4d19-8ace-984b3eb9dfac)
+
 
 
 
