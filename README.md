@@ -66,9 +66,10 @@ mage start uber_de_project
 
 
 ## Using mage.ai To Do ETL Process
-I then write some code in mage.ai to do some ETL process of the data for me.
+I then write some code in mage.ai to do some ETL process of the data.
 
 ![image](https://github.com/user-attachments/assets/76482412-505a-4d19-8ace-984b3eb9dfac)
+
 
 
 
