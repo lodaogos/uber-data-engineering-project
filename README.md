@@ -5,7 +5,7 @@
 ## Introduction
 
 This is my personal project in order to further amplify my understanding towards data engineering especially in using ETL pipeline thanks to 
-Darshil Parmar Tutorial on Youtube. The tools that will be used on this project are Jupyter Notebook, GCP Storage, Python, Compute Instance, Mage AI, BigQuery, and Looker Studio.
+Darshil Parmar Tutorial on Youtube. The tools that will be used on this project are **Jupyter Notebook, GCP Storage, Python, Compute Instance, Mage AI, BigQuery, and Looker Studio.**
 
 ## Dataset Used
 
