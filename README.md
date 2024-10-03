@@ -36,7 +36,7 @@ I uploaded the csv data into google cloud bucket
 I created a VM instance using the google cloud compute engine. In the VM i installed python and then followed the documentation on [mage.ai](https://github.com/mage-ai/mage-ai?tab=readme-ov-file#%EF%B8%8F-quick-start) to run mage.ai on the instance. I also configured the VM in a way so that i can access it from the browser.
 
 ```
-# Command to run the VM and download install mage.ai
+# Command to run the VM and install mage.ai
 
 # Install the dependecies
 sudo apt-get update
@@ -61,6 +61,9 @@ mage start uber_de_project
 ```
 
 ![image](https://github.com/user-attachments/assets/f50abf24-56d2-4d69-9b7a-61f63a7d49ad)
+
+![image](https://github.com/user-attachments/assets/ad125b29-11e4-480e-92a1-5b96d33c42d1)
+
 
 ## Using mage.ai To Do ETL Process
 I then write some code in mage.ai to do some ETL process of the data for me.
