@@ -25,3 +25,27 @@ In order to use our dataset efficiently, we can first create a data model by div
 ## Transformation Code in Jupyter Notebook
 I wrote the code for transformation in [jupyter notebook](https://github.com/lodaogos/uber-data-engineering-project/blob/main/uber_transform.ipynb). This code clean the data and transform it into similar structure with the fact table we have created before.
 
+![image](https://github.com/user-attachments/assets/166e3c59-e176-4c06-869f-29996ec65ff3)
+
+## Using Google Cloud Bucket
+I uploaded the csv data into google cloud bucket
+
+![image](https://github.com/user-attachments/assets/a5bab96d-ab78-44ad-8e98-c058d73fe1fb)
+
+## Using Google Compute Engine To Run mage.ai
+I created a VM instance using the google cloud compute engine. In the VM i installed python and then followed the documentation on [mage.ai](https://github.com/mage-ai/mage-ai?tab=readme-ov-file#%EF%B8%8F-quick-start) to run mage.ai on the instance. I also configured the VM in a way so that i can access it from the browser.
+
+![image](https://github.com/user-attachments/assets/f50abf24-56d2-4d69-9b7a-61f63a7d49ad)
+
+## Using mage.ai To Do ETL Process
+I then write some code in mage.ai to do some ETL process of the data for me.
+
+![image](https://github.com/user-attachments/assets/bfab60a5-860d-4b32-8aae-297602745438)
+
+
+
+
+
+
+
+
