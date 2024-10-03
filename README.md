@@ -77,7 +77,9 @@ We can check if the data succesfully loaded into the BigQuery by trying to query
 ## Creating A Dashboard Using Looker Studio
 After finish loading the data into BigQuery, we can connect the data from BigQuery into looker studio to build a [dashboard](https://lookerstudio.google.com/reporting/949c81c6-5044-45f0-8791-7a2f6abcacbe).
 
-![image](https://github.com/user-attachments/assets/fed88cef-930d-4a2a-81b4-9f31b988079c)
+![image](https://github.com/user-attachments/assets/58765ed9-cb24-4e25-8cb3-90df98ee3c29)
+
+
 
 
 
